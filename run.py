@@ -231,6 +231,8 @@ def main():
 
     env = gym.make(args.envname)
 
+    # env = gym.wrappers.Monitor(env,"./recording"+args.envname, force=True)
+
     student = ImitateTorch(env)
 
     max_steps = args.max_timesteps or env.spec.timestep_limit
