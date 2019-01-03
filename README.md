@@ -10,7 +10,9 @@ Dependencies:
  * tqdm
 
 The pretrained models trained with dagger and expert models have been provided. Preferably use pretrained models for first viewing how the models perform.
-The expert models are from "https://github.com/berkeleydeeprlcourse/homework/tree/master/hw1"
+The expert models are from https://github.com/berkeleydeeprlcourse/homework/tree/master/hw1.
+
+
 Run the code as follows:
 ```
 python run.py --envname envName --num_rollouts 50 --max_timesteps 1000 --render --use_pretrained --cloning
