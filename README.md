@@ -35,4 +35,5 @@ To save the recordings of the env, uncomment line [234](https://github.com/kinal
 
 ## Output Screenshot
 
-![Outputs]https://github.com/kinalmehta/Imitation-Learning-Pytorch/blob/master/output_screenshots/JointPics11.JPG)
+![Outputs]
+(https://github.com/kinalmehta/Imitation-Learning-Pytorch/blob/master/output_screenshots/JointPics11.JPG))
