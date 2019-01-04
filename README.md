@@ -32,3 +32,7 @@ The available environments are:
 * Walker2d-v2.pkl
 
 To save the recordings of the env, uncomment line [234](https://github.com/kinalmehta/Imitation-Learning-Pytorch/blob/c64501b23a3d653ed73474efbb2b2c4e05b9d10a/run.py#L234)
+
+## Output Screenshot
+
+![Outputs]https://github.com/kinalmehta/Imitation-Learning-Pytorch/blob/master/output_screenshots/JointPics11.JPG)
