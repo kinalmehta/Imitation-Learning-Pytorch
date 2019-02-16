@@ -31,8 +31,8 @@ The available environments are:
 * Reacher-v2.pkl
 * Walker2d-v2.pkl
 
-To save the recordings of the env, uncomment line [234](https://github.com/kinalmehta/Imitation-Learning-Pytorch/blob/c64501b23a3d653ed73474efbb2b2c4e05b9d10a/run.py#L234)
+To save the recordings of the env, uncomment line [234](./run.py#L234)
 
 ## Output Screenshot
 
-![Outputs](https://raw.githubusercontent.com/kinalmehta/Imitation-Learning-Pytorch/master/output_screenshots/JointPics11.JPG)
+![Outputs](./output_screenshots/JointPics11.JPG)
