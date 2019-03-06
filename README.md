@@ -14,10 +14,10 @@ The expert models are from https://github.com/berkeleydeeprlcourse/homework/tree
 
 
 Run the code as follows:
-```
+```sh
 python run.py --envname envName --num_rollouts 50 --max_timesteps 1000 --render --use_pretrained --cloning
 python run.py --envname envName --num_rollouts 50 --max_timesteps 1000 --render --use_pretrained --dagger
-                                                    (optional)         (optional)   (optional)
+#                                                    (optional)        (optional)   (optional)
 ```
 
 **Note**: Though the option for behaviour cloning is given, the models trained with dagger perform way better. The results when only behaviour cloning is used are below par. And hence only pre-models trained with dagger are provided. 
